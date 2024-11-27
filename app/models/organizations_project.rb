@@ -1,0 +1,2 @@
+class OrganizationsProject < ApplicationRecord
+end

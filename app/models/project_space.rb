@@ -1,0 +1,2 @@
+class ProjectSpace < ApplicationRecord
+end
